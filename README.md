@@ -1,0 +1,1 @@
+Exercícios realizados ao longo do curso da Trybe

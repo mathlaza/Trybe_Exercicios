@@ -34,3 +34,22 @@
 //     counter = 0;
 // }
 // console.log(armazena);
+
+
+// //retorna maior numero primo entre 0 e 50
+// let maiorprimo = 0;
+// let limite = 50;
+// let contador = 0;
+
+// for (i = limite; i > 0; i -= 1) {
+//     for (j = 2; j <= limite; j += 1) {
+//         if (i % j === 0) {
+//             contador += 1;
+//         }
+//     }
+//     if (contador === 1 && i > maiorprimo) {
+//         maiorprimo = i;
+//     }
+//     contador = 0;
+// }
+// console.log(maiorprimo);

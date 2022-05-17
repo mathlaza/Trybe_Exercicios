@@ -41,8 +41,8 @@
 // let limite = 50;
 // let contador = 0;
 
-// for (i = limite; i > 0; i -= 1) {
-//     for (j = 2; j <= limite; j += 1) {
+// for (i = 0; i <= limite; i += 1) {
+//     for (j = 2; j <= i; j += 1) {
 //         if (i % j === 0) {
 //             contador += 1;
 //         }
@@ -53,3 +53,26 @@
 //     contador = 0;
 // }
 // console.log(maiorprimo);
+
+
+//triângulo de asteriscos invertido
+// let n = 5;
+// let symbol = '*';
+// let armazena = '';
+// let position = n;
+
+// for (let line = 0; line < n; line += 1) {
+//     for (let col = 0; col <= n; col += 1) {
+//         if (col < position) {
+//             armazena = armazena + ' ';
+//         } else {
+//             armazena = armazena + symbol;
+//         }
+//     }
+//     console.log(armazena);
+//     armazena = '';
+//     position -= 1;
+// }
+
+
+

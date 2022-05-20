@@ -79,6 +79,18 @@
        }
        correct('Exercício 5.1 - JavaScript');
 
+       function capital(value) {
+           let change = document.getElementsByClassName('center-content');
+           change[0].style.textTransform = value;
+       }
+       capital('uppercase');
+
+       function displays() {
+           let conteudo = document.getElementsByClassName('center-content');
+           console.log(conteudo[0].innerText);
+       }
+       displays();
+
     </script>
   </body>
 </html>

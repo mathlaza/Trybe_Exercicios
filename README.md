@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por Matheus Muniz Martinez Lazaro [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-muniz-9a397b99/)](https://www.linkedin.com/in/matheus-muniz-9a397b99/) 
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por Matheus Muniz Martinez Lazaro [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-muniz-9a397b99/)](https://www.linkedin.com/in/matheus-muniz-9a397b99/)_ 
 enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."

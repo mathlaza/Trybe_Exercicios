@@ -86,7 +86,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - 10-3: _Jest - Simulando comportamentos_
 - 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 11: Introdução - React
 
@@ -142,7 +142,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - 19-1: _[Projeto - App de Receitas]()_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Bloco 20: Introdução - Bancos de dados relacionais
 
@@ -238,7 +238,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - 34-1: _[Projeto - Trybeer V2]()_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação :white_check_mark:
 
 ##### Bloco 35: Introdução - Ciência da Computação
 

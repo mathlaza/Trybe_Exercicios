@@ -1,5 +1,6 @@
 function handleSubmit(manga) {
     manga.preventDefault();
+    
     const valida = validation();
     if (valida === false) {
         alert('Dados inválidos');

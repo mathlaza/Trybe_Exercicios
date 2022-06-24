@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>TrybeTrip</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<h1>Concorra a uma viagem com tudo pago!!!</h1>
+
+	<form action="">
+
+		<fieldset>
+			<!-- campo de nome -->
+			<label for="fullName">Seu Nome:</label>
+			<input type="text" id="fullName" name="NOME" placeholder="Bote seu nome aqui" maxlength="40" minlength="10"
+				required>
+			<br>
+
+			<!-- campo de email -->
+			<label for="email">Seu e-mail zé:</label>
+			<input type="email" id="email" name="EMAIL" placeholder="Seu email aqui" maxlength="50" minlength="10"
+				required>
+			<br>
+
+			<!-- radio Buttons -->
+			<label for="destination1">Inglaterra</label>
+			<input type="radio" id="destination1" class="radios" name="DESTINO" value="Inglaterra" required> <label
+				for="destination2">Suíça</label>
+			<input type="radio" id="destination2" class="radios" name="DESTINO" value="Suíça" required>
+			<label for="destination3">Egito</label>
+			<input type="radio" id="destination3" class="radios" name="DESTINO" value="Egito" required>
+			<label for="destination4">Espanha</label>
+			<input type="radio" id="destination4" class="radios" name="DESTINO" value="Espanha" required>
+			<br>
+
+			<!-- text area -->
+			<label for="why">Por que vc deveria ser escolhido?</label>
+			<br>
+			<textarea name="PQ" id="why" cols="30" rows="10" placeholder="Digite sua tese aqui"></textarea>
+			<br>
+
+			<!-- data viagem -->
+			<label for="date">Qual melhor data pra viagem?</label>
+			<input type="date" id="date" name="DATA">
+			<br>
+
+			<!-- checkboxes -->
+			<label for="promo">Gostaria de receber outras ofertas? </label>
+			<input type="checkbox" name="PROMO" id="promo">
+			<br />
+			<label for="agreement">Concordo</label>
+			<input type="checkbox" name="AGREEMENT" id="agreement" required>
+			<br>
+		</fieldset>
+		<br>
+		<button type="submit" id="submit-btn" disabled>ENVIA!</button>
+		<button type="button" id="clear-btn">APAGA</button>
+
+	</form>
+
+
+	<script src="script.js"></script>
+</body>
+
+</html>
